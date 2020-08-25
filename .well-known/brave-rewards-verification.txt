@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: darshithtrevadia.github.io
+Token: 13d2edc0802dfaca5d4b98cebc78dff77f4870ac9c97980f1b691f17d337064e
